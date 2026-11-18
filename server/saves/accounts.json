@@ -1,0 +1,12 @@
+{
+  "next_id": 100002,
+  "accounts": {
+    "shuma_100001": {
+      "id": 100001,
+      "name": "shuma_100001",
+      "channel": "shuma",
+      "created_at": 1794895445,
+      "last_login_at": 1794895445
+    }
+  }
+}

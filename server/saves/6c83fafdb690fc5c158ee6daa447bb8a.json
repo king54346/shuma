@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "key": {
+    "account": "shuma_100001",
+    "server_key": "game.cn.1"
+  },
+  "sync_version": 16,
+  "updated_at": 1794895777,
+  "role": {
+    "id": "100001",
+    "name": "本地测试训练师",
+    "level": 3,
+    "level_exp": 0,
+    "vip_level": 0,
+    "gold": 11750,
+    "rmb": 1000,
+    "stamina": 108,
+    "stamina_last_recover_time": 1794895623,
+    "figure": 1,
+    "created_time": 1794895175
+  },
+  "items": {
+    "9004": 0
+  },
+  "newbie_guide": [
+    -1,
+    1,
+    2,
+    10,
+    13,
+    14,
+    17
+  ],
+  "award_records": {},
+  "cards": {
+    "1001": {
+      "id": "1001",
+      "card_id": 21,
+      "level": 1,
+      "star": 1,
+      "advance": 1,
+      "exp": 0,
+      "level_exp": 0,
+      "next_level_exp": 100,
+      "fighting_point": 500,
+      "skills": {},
+      "locked": false,
+      "character": 1,
+      "skin_id": 0,
+      "extra": {
+        "effort_advance": 0,
+        "effort_values": {},
+        "equips": {},
+        "nvalue": {
+          "damage": 12,
+          "defence": 12,
+          "hp": 12,
+          "specialDamage": 12,
+          "specialDefence": 12,
+          "speed": 12
+        },
+        "nvalue_locked": {}
+      }
+    },
+    "1002": {
+      "id": "1002",
+      "card_id": 92,
+      "level": 1,
+      "star": 1,
+      "advance": 1,
+      "exp": 0,
+      "level_exp": 0,
+      "next_level_exp": 100,
+      "fighting_point": 500,
+      "skills": {},
+      "locked": false,
+      "character": 5,
+      "skin_id": 0,
+      "extra": {
+        "effort_advance": 0,
+        "effort_values": {},
+        "equips": {},
+        "nvalue": {
+          "damage": 12,
+          "defence": 12,
+          "hp": 12,
+          "specialDamage": 12,
+          "specialDefence": 12,
+          "speed": 12
+        },
+        "nvalue_locked": {}
+      }
+    },
+    "1003": {
+      "id": "1003",
+      "card_id": 1,
+      "level": 1,
+      "star": 1,
+      "advance": 1,
+      "exp": 0,
+      "level_exp": 0,
+      "next_level_exp": 100,
+      "fighting_point": 500,
+      "skills": {},
+      "locked": false,
+      "character": 1,
+      "skin_id": 0,
+      "extra": {
+        "effort_advance": 0,
+        "effort_values": {},
+        "equips": {},
+        "nvalue": {
+          "damage": 12,
+          "defence": 12,
+          "hp": 12,
+          "specialDamage": 12,
+          "specialDefence": 12,
+          "speed": 12
+        },
+        "nvalue_locked": {}
+      }
+    }
+  },
+  "battle_cards": [
+    "1001",
+    "1002",
+    "1003"
+  ],
+  "gate_star": {
+    "10101": {
+      "star": 3,
+      "chest": -1
+    },
+    "10102": {
+      "star": 3,
+      "chest": 1
+    }
+  },
+  "gate_open": [
+    10101,
+    10102,
+    10103
+  ],
+  "map_open": [
+    11
+  ],
+  "house_lovers": {
+    "1": {
+      "feel": 300
+    }
+  },
+  "guide_awards": {
+    "103": "1002",
+    "164": ""
+  },
+  "sign": {
+    "month": 202611,
+    "count": 0,
+    "last_day": 0,
+    "last_index": 0,
+    "buys": 0,
+    "total": 0,
+    "claimed": 0,
+    "month_gifts": {},
+    "daily_awards": {}
+  },
+  "menu": {
+    "species": {
+      "1": 1,
+      "21": 1,
+      "92": 1
+    },
+    "draw": {
+      "Day": 20261117,
+      "FreeDiamond": 1,
+      "FreeGold": 0,
+      "LastFreeGold": 0,
+      "HalfDiamond": 0,
+      "DailyTotal": 1
+    },
+    "task_day": 20261117,
+    "gate_attempts": 2,
+    "liveness": 0,
+    "fragment_coins": 0
+  }
+}
